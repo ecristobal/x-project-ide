@@ -1,8 +1,8 @@
 bin/
+features/
+plugins/
 .settings
 .classpath
 .project
-.springBeans
-release.properties
-pom.xml.releaseBackup
-*.log
+artifacts.jar
+content.jar
