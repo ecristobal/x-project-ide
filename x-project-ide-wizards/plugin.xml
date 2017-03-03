@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.newWizards">
+      <category
+            id="x-project-ide-wizards"
+            name="Sample Wizards">
+      </category>
+      <wizard
+            category="x-project-ide-wizards"
+            class="x.project.ide.wizard.SampleNewWizard"
+            icon="icons/sample.gif"
+            id="x.project.ide.wizard.SampleNewWizard"
+            name="Multi-page Editor file">
+      </wizard>
+   </extension>
+
+</plugin>
