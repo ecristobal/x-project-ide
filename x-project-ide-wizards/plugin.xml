@@ -9,9 +9,9 @@
       </category>
       <wizard
             category="x-project-ide-wizards"
-            class="x.project.ide.wizard.SampleNewWizard"
+            class="com.x.project.ide.wizard.SampleNewWizard"
             icon="icons/sample.gif"
-            id="x.project.ide.wizard.SampleNewWizard"
+            id="com.x.project.ide.wizard.SampleNewWizard"
             name="Multi-page Editor file">
       </wizard>
    </extension>
