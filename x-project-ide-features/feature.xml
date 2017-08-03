@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
-      id="x_project_ide_features"
-      label="X Project IDE Features"
+      id="tecnopyme_ide_features"
+      label="TecnoPYME IDE Features"
       version="1.0.0.SNAPSHOT">
 
    <description url="http://www.example.com/description">
@@ -25,7 +25,7 @@
    </requires>
 
    <plugin
-         id="x-project-ide-wizards"
+         id="tecnopyme-ide-wizards"
          download-size="0"
          install-size="0"
          version="0.0.0"

@@ -1,4 +1,4 @@
-package com.x.project.ide.wizard;
+package com.tecnopyme.ide.wizard;
 
 import org.eclipse.core.resources.IContainer;
 import org.eclipse.core.resources.IResource;

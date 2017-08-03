@@ -8,10 +8,10 @@
             name="Sample Wizards">
       </category>
       <wizard
-            category="x-project-ide-wizards"
-            class="com.x.project.ide.wizard.SampleNewWizard"
+            category="tecnopyme-ide-wizards"
+            class="com.tecnopyme.ide.wizard.SampleNewWizard"
             icon="icons/sample.gif"
-            id="com.x.project.ide.wizard.SampleNewWizard"
+            id="com.tecnopyme.ide.wizard.SampleNewWizard"
             name="Multi-page Editor file">
       </wizard>
    </extension>

@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/x_project_ide_features_1.0.0.SNAPSHOT.jar" id="x_project_ide_features" version="1.0.0.SNAPSHOT"/>
+   <feature url="features/tecnopyme_ide_features_1.0.0.SNAPSHOT.jar" id="tecnopyme_ide_features" version="1.0.0.SNAPSHOT"/>
 </site>

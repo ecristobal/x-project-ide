@@ -1,4 +1,4 @@
-package com.x.project.ide.wizard;
+package com.tecnopyme.ide.wizard;
 
 import org.eclipse.jface.viewers.IStructuredSelection;
 import org.eclipse.jface.wizard.Wizard;
